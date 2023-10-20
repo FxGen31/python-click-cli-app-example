@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled Python files
+*.pyc
+
+# Editor and IDE files
+.vscode/
+*.swp
+*.swo
+*.swn
+*.swm
+*.swo
+*.swo
+*.DS_Store
+.idea/
+
+# Log files
+*.log
+
+# Build and distribution directories
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+.venv
+env/
+.env
+
+# Coverage reports
+.coverage
+htmlcov/
+.cov/
+
+# Package cache files
+*.pyre
+__pypackages__/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
